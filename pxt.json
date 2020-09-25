@@ -1,0 +1,23 @@
+{
+    "name": "Controller",
+    "description": "",
+    "dependencies": {
+        "circuit-playground": "*",
+        "gamepad": "*",
+        "keyboard": "*",
+        "maker-controller": "github:microsoft/pxt-maker-controller#v0.0.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "adafruit"
+    ],
+    "preferredEditor": "blocksprj"
+}
